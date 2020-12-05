@@ -1,0 +1,13 @@
+{
+  "name": "snowpacktest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Soltys <asoltys@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "dependencies": {
+    "snowpack": "^3.0.0-rc.1"
+  }
+}
